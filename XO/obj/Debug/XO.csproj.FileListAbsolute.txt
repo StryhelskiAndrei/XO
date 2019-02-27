@@ -1,0 +1,15 @@
+D:\EPAM\XO\XO\bin\Debug\XO.exe.config
+D:\EPAM\XO\XO\bin\Debug\XO.exe
+D:\EPAM\XO\XO\bin\Debug\XO.pdb
+D:\EPAM\XO\XO\obj\Debug\XO.csprojAssemblyReference.cache
+D:\EPAM\XO\XO\obj\Debug\MainWindow.g.cs
+D:\EPAM\XO\XO\obj\Debug\App.g.cs
+D:\EPAM\XO\XO\obj\Debug\XO_MarkupCompile.cache
+D:\EPAM\XO\XO\obj\Debug\XO_MarkupCompile.lref
+D:\EPAM\XO\XO\obj\Debug\MainWindow.baml
+D:\EPAM\XO\XO\obj\Debug\XO.g.resources
+D:\EPAM\XO\XO\obj\Debug\XO.Properties.Resources.resources
+D:\EPAM\XO\XO\obj\Debug\XO.csproj.GenerateResource.cache
+D:\EPAM\XO\XO\obj\Debug\XO.csproj.CoreCompileInputs.cache
+D:\EPAM\XO\XO\obj\Debug\XO.exe
+D:\EPAM\XO\XO\obj\Debug\XO.pdb
